@@ -1,0 +1,186 @@
+.varieties{
+    width: 100%;
+    height: 10vh;
+}
+.varieties > div:nth-child(1){
+    width: 100%;
+    height: 7vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    letter-spacing: 5px;
+    // border: 1px solid gray;
+}
+
+.varieties > div:nth-child(2){
+    width: 4%;
+    margin: auto;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    border-top: 3px solid black;
+}
+
+.card1-one{
+    width: 95%;
+    margin: auto;
+    height: 80vh;
+    display: flex;
+    gap: 30px;
+    // border: 1px solid gray;
+}
+.card1-left{
+    width: 50%;
+    height: 100%;
+    position: relative;
+    // border: 1px solid red;
+}
+.card1-left > img{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+.card1-left > div{
+    width: 100%;
+    height: 40%;
+    position: absolute;
+    bottom: 0;
+    background: #543a72;
+    opacity: 0.9;
+    // border: 1px solid red;
+}
+.opacity{
+    width: 100%;
+    height: 100%;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.opacity > div{
+    width: 90%;
+    height: 80%;
+    margin: auto;
+    padding: 20px;
+    // border: 1px solid red;
+}
+.opacity > div > div:nth-child(1){
+    height: 24%;
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+    // border: 1px solid red;
+}
+.opacity > div > div:nth-child(2){
+    height: 24%;
+    color: white;
+    font-size: small;
+    // border: 1px solid red;
+}
+.opacity > div > div:nth-child(3){
+    // height: 24%;
+    margin-top: 20px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 3px solid white;
+}
+.opacity > div > div:nth-child(4)>button{
+    height: 24%;
+    width: 85px;
+    height: 40px;
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    margin-top: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.card1-right{
+    width: 50%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 20px;
+    border-radius: 20px;
+}
+
+.card1-right > div{
+    // border: 1px solid red;
+    border-radius: 20px;
+}
+.card1-right > div {
+    width: 100%;
+    height: 275px;
+}
+.card1-right > div > img{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.card1-right > div:nth-child(1){
+    border: 1px solid red;
+    position: relative;
+}
+.card1-right > div:nth-child(2){
+    border: 1px solid red;
+    position: relative;
+}
+.card1-right > div:nth-child(3){
+    border: 1px solid red;
+    position: relative;
+}
+.card1-right > div:nth-child(4){
+    border: 1px solid red;
+    position: relative;
+}
+
+.opacity1{
+    width: 100%;
+    height: 40%;
+    position: absolute;
+    bottom: 0;
+    opacity: 0.5;
+    background: #eedacd;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.opacity1 > div{
+    width: 90%;
+    height: 80%;
+    margin: auto;
+    padding: 10px;
+    // border: 1px solid red;
+}
+.opacity1 > div > div:nth-child(1){
+    height: 24%;
+    color: black;
+    font-size: 10px;
+    font-weight: bold;
+    // border: 1px solid red;
+}
+.opacity1 > div > div:nth-child(2){
+    height: 24%;
+    color: black;
+    font-size: 8px;
+    // border: 1px solid red;
+}
+.opacity1 > div > div:nth-child(3){
+    // height: 24%;
+    margin-top: 10px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 3px solid black;
+}
+.opacity1 > div > div:nth-child(4)>button{
+    height: 24%;
+    width: 85px;
+    height: 30px;
+    background-color: transparent;
+    border: 1px solid black;
+    color: black;
+    margin-top: 10px;
+    font-weight: bold;
+    border-radius: 10px;
+}
