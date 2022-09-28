@@ -22,25 +22,10 @@
 </p>
  
 
-  Snapshots:
-  
-Signup Page:
-![](/screenshots/signup.png)
-SignIn Page:
-![](/screenshots/login.png)
- Landing Page:
- ![](/screenshots/landingpage.png)
-  Add Recipe Page:
-  ![](/screenshots/add.png)
-   Search Filter:
-   ![](/screenshots/search.png)
-    Edit Food Recipe Page:
-    ![](/screenshots/edit.png)
-     Single Food REcipe Page:
-     ![](/screenshots/singlefood.png)
-      Small Screen:
-      ![](/screenshots/smallscreen.png)
-        Medium Screen:
-       ![](/screenshots/mediumscreen.png)
-        Footer:
-        ![](/screenshots/footer.png)
+<h1>Snapshots:</h1>
+![](/screenshots/card1.png)
+![](/screenshots/card2.png)
+ ![](/screenshots/card3.png)
+  ![](/screenshots/card4.png)
+   ![](/screenshots/card5.png)
+   
