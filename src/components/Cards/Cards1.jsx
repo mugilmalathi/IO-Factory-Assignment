@@ -51,7 +51,7 @@ const Cards1 = () => {
                 </div>
                 <div>
                     <img src={cookie} alt="" />
-                    <div className='opacity1'>
+                    <div className='opacity3'>
                         <div>
                             <div>Pizza is a savory dish of Italian origin</div>
                             <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente nihil praesentium recusandae rem porro.</div>
